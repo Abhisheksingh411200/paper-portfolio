@@ -1,6 +1,11 @@
 @font-face{
     font-family: Domaine;
     src: url(./DomaineDisp.ttf);
+    
+}
+@font-face {
+    font-family: canopee;
+    src: url(./Canopee.ttf);
 }
 
 *{
