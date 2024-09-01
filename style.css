@@ -165,15 +165,16 @@ html , body {
     
 }
 #page1 h1{
-    font-size: 37vw;
-    font-weight: 100;
-    letter-spacing: -23px;
+    font-size: 35vw;
+    font-weight: 400;
+    letter-spacing: -18px;
     font-family: canopee;
     background-color: #1c1c19;
     color: #c4bcb3;
     line-height: 400px;
     width: 96%;
     margin-left: 2%;
+    padding-right: 10px;
     border-radius: 10px;
     text-align: center;
 }
@@ -190,16 +191,14 @@ html , body {
 #page2-left{
     height: 100%;
     width: 34%;
-    
     padding-right: 40px;
     border-right: 1px solid #343333;
-
 }
 #page2-left h2{
-    font-size: 7vw;
+    font-size: 8vw;
     font-family: canopee;
     text-align: center;
-    line-height: 100px;
+    line-height: 120px;
     font-weight: 250;
     letter-spacing: -4px;
 
@@ -207,7 +206,7 @@ html , body {
 #page2-left h2 span{
     font-size: 12vw;
     font-family: canopee;
-    font-weight: 700;
+    font-weight: 500;
 
 }
 #page2-left img{
@@ -248,15 +247,16 @@ html , body {
 }
 #page2-right h1{
     width: 100%;
-    font-family: canopee;
-    font-size: 6.5vw;
-    font-weight: 600;
+    font-family: Canopee ;
+    font-size: 7vw;
+    font-weight: 500;
     letter-spacing: 1px;
-    line-height: -100px;
+    margin: 15px 0px;
+    
 }
 #page2-right h1 span{
-    font-family: Domaine ;
-    line-height: -100px;
+    font-family:url(DomaineDisp.ttf.ttf);
+    
 }
 /* page3 */
 #page3{
@@ -628,10 +628,10 @@ html , body {
 #page7-right h1{
     text-transform: uppercase;
     font-family: canopee;
-    font-size: 28vw;
+    font-size: 26vw;
     font-weight: 100;
     letter-spacing: -13px;
-    text-align: start;
+    text-align: center;
     padding-right: 1.5vw;
     padding-top: 2.5vw;
     padding-left: 1.5vw ;
@@ -682,19 +682,19 @@ html , body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-right: 10px;
+    padding-right: 5px;
 
 }
 #page8-right p{
     font-family: Domaine;
-    font-size: 2.2vw;
+    font-size: 2vw;
     font-weight: 100;
     color: #343333;
 
 }
 #page8-right h2{
     font-family: canopee;
-    font-size: 8.3vw;
+    font-size: 8vw;
     font-weight: 100;
     margin-top: 10px;
     letter-spacing: -5px;
